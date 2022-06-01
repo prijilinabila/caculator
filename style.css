@@ -1,0 +1,40 @@
+.button {
+   
+    padding: 15px 30px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-right: 5px;
+   
+  
+} 
+.button_dot{
+    
+    padding: 15px 30px;
+    text-align: center;
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+#cals{
+    text-align: right;
+    
+}
+h1,body{
+    color: blue;
+    margin-left: 10pc;
+    background-color: bisque;
+}
+.box{
+    width: 16%;
+    border: 2px;
+    padding: 1pc;
+    border-radius: 5px;
+}
+#main {
+    display: -webkit-flex; 
+    display: flex;
+    width: 23%;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
